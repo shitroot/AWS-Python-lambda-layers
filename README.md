@@ -1,6 +1,9 @@
 # AWS-Python-lambda-layers
 python lambda packages to use in lambda functions
 
+# Description
+Here is  python Numpy, Pandas, and Redis packages that can be uploads as a Lambda layer also the instructions to build your own package an upload  it to AWS
+
 # Requirements!
 
   - Python 3.6
