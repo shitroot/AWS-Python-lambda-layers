@@ -12,6 +12,7 @@ If you want to make pandas package to AWS Lambda:
 
 ```sh
 $ cd AWS-Python-lambda-layers
+$ mkdir build/python/lib/python3.6/site-packages/
 $ pip3 install pandas -t build/python/lib/python3.6/site-packages/
 ```
 
