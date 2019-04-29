@@ -27,6 +27,7 @@ $ ls build/python/lib/python3.6/site-packages/
 zip Packages
 
 ```sh
+$ cd build
 $ zip -r mypythonpackage.zip
 ```
 
