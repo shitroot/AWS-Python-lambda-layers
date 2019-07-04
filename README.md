@@ -41,5 +41,10 @@ upload your new package to AWS s3 bucket and then go to your AWS lambda Console 
 - Amazon s3 Link URL: copy and paste Object URl of your package with the format (https://s3.amazonaws.com/YourBucket/mypythonpackage.zip)
 - Compatible runtimes: python3.6
 
+-NOTE: if you have a problem with de or error like ```sh AuthorizationHeaderMalformed:```
+ use next format:
+ (https://s3.ap-northeast-1.amazonaws.com/{bucket}/{librarykey})
+ 
+
 And finally click on Create
 
